@@ -1,2 +1,2 @@
 # GPTs-ThirdSpy
-An automated framework designed to extract GPTs’ pri- vacy settings
+An automated framework designed to extract GPTs’ privacy settings
