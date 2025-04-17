@@ -1,4 +1,4 @@
-![WechatIMG304](https://github.com/user-attachments/assets/0b8fd423-73a4-4a8a-afa0-f0b1a5710f70)# GPTs-ThirdSpy
+# GPTs-ThirdSpy
 An automated framework designed to extract GPTs’ privacy settings
 
 GPTs-ThirdSpy automates the extraction of privacy-related links from GPTs listed in the GPT Store by controlling Google Chrome via AppleScript and cliclick. It reads a list of GPT URLs, opens each one, interacts with the UI, and collects structured privacy data.
